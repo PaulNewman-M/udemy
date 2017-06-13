@@ -7,6 +7,9 @@ p{
 
 	margin-top:50px;
 }
+table{
+	margin-top: 100px;
+}
 
 td{
 	
@@ -18,14 +21,16 @@ td{
 .first{
  
 border-bottom:1px solid black;
-border-right: 1px solid black
+
 
 }
 .second{
+	border-left: 1px solid black;
+	border-right: 1px solid black;
 	border-bottom: 1px solid black;
 }
 .third{
-	border-left: 1px solid black;
+	
 	border-bottom:1px solid black; 
 }
 .forth{
@@ -35,7 +40,7 @@ border-right: 1px solid black
 	border-left: 1px solid black;
 	border-bottom:1px solid black;
 	border-right:1px solid black;
-	border-top:1px solid black;
+
 }
 .sixth{
 	border-bottom:1px solid black;
