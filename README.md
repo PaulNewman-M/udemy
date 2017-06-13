@@ -43,5 +43,8 @@ Order of the Specificity
 10.1 )  Font's
 <a href="https://fonts.google.com/">Google fonts and repected libraries</a>
 
-10.2) Box Model
-<img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497389606/Screen_Shot_2017-06-13_at_2.32.51_PM_wck1dl.png">
+  10.2) Box Model
+  <img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497389606/Screen_Shot_2017-06-13_at_2.32.51_PM_wck1dl.png">
+
+  10.3) Padding, Margin
+  <img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497389941/Screen_Shot_2017-06-13_at_2.38.41_PM_jclvkn.png">
