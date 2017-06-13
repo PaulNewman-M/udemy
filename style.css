@@ -12,12 +12,13 @@ td{
 	
 	width:100px;
 	height:100px;
-	background-color:red;
+	
 	
 }
 .first{
+ 
+border-bottom:1px solid black;
 
-border-bottom:1px;
 }
 .second{
 	border-left: 1px;
