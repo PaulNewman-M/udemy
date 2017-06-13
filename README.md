@@ -35,5 +35,4 @@ Order of the Specificity
 
 9) Revising Specific tags styles
 
-<img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497344210/Screen_Shot_2017-06-13_at_1.56.26_AM_wwvqiv.png
-">
+<img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497344210/Screen_Shot_2017-06-13_at_1.56.26_AM_wwvqiv.png">
