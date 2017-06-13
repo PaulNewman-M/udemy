@@ -15,3 +15,31 @@ td{
 	background-color:red;
 	
 }
+.first{
+
+border-bottom:1px;
+}
+.second{
+	border-left: 1px;
+	border-right: 1px;
+}
+.third{
+	border-left: 1px;
+	border-bottom:1px;
+}
+.forth{
+	border-bottom: 1px;
+}
+.fivth{
+	border-left: 1px;
+	border-bottom:1px;
+	border-right:1px;
+	border-top:1px;
+}
+.sixth{
+	border-bottom:1px;
+}
+.eight{
+	border-left: 1px;
+	border-right: 1px;
+}
