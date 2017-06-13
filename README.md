@@ -39,3 +39,6 @@ Order of the Specificity
 
 10) <b>Text And Font:</b>
 <a href="http://www.cssfontstack.com/">cssfontstack</a>
+
+10.1 )  Font's
+<a href="https://fonts.google.com/">Google fonts and repected libraries</a>
