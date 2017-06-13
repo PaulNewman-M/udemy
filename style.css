@@ -8,9 +8,10 @@ p{
 	margin-top:50px;
 }
 
-table tr td{
-	align:center;
-	width:20px;
-	height:200px;
-	border: 1px solid;
+td{
+	
+	width:100px;
+	height:100px;
+	color:red;
+	
 }
