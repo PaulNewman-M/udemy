@@ -12,7 +12,7 @@ Udemy Bootcamp:
 
 7. CSS Selectors:
 ￼
-￼<img href="http://res.cloudinary.com/duqwfkttw/image/upload/v1497339031/Screen_Shot_2017-06-12_at_11.46.21_PM_ry8tqt.png">
+￼<img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497339031/Screen_Shot_2017-06-12_at_11.46.21_PM_ry8tqt.png">
 ￼
 ￼
 8. Specific and cascade
