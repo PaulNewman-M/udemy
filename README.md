@@ -38,4 +38,4 @@ Order of the Specificity
 <img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497344210/Screen_Shot_2017-06-13_at_1.56.26_AM_wwvqiv.png">
 
 10) <b>Text And Font:</b>
-<a href="http://www.cssfontstack.com/"></a>
+<a href="http://www.cssfontstack.com/">cssfontstack</a>
