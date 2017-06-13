@@ -27,3 +27,4 @@ priority ascending order:
 ->class
 ->id  (higher priority)
 ￼
+<img src"http://res.cloudinary.com/duqwfkttw/image/upload/v1497339344/Screen_Shot_2017-06-13_at_12.16.38_AM_uj8wew.png">
