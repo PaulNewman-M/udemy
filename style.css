@@ -9,6 +9,8 @@ p{
 }
 
 table tr td{
-	width:50px;
+	align:center;
+	width:20px;
+	height:200px;
 	border: 1px solid;
 }
