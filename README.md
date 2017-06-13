@@ -28,3 +28,7 @@ priority ascending order:
 ->id  (higher priority)
 ￼
 <img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497339344/Screen_Shot_2017-06-13_at_12.16.38_AM_uj8wew.png">
+
+Order of the Specificity
+
+<img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497340219/Screen_Shot_2017-06-13_at_12.49.51_AM_tw3a5h.png">
