@@ -32,3 +32,8 @@ priority ascending order:
 Order of the Specificity
 
 <img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497340219/Screen_Shot_2017-06-13_at_12.49.51_AM_tw3a5h.png">
+
+9) Revising Specific tags styles
+
+<img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497344210/Screen_Shot_2017-06-13_at_1.56.26_AM_wwvqiv.png
+">
