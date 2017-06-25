@@ -49,8 +49,8 @@ Order of the Specificity
   10.3) Padding, Margin
   <img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497389941/Screen_Shot_2017-06-13_at_2.38.41_PM_jclvkn.png">
   
-  %%%
-  11) What's the best practice for putting multiple projects in a git repository?
+
+11)<b> What's the best practice for putting multiple projects in a git repository?</b>
 
 A single repository can contain multiple independent branches, called orphan branches. Orphan branches are completely separate from each other; they do not share histories.
 
