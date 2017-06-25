@@ -48,3 +48,29 @@ Order of the Specificity
 
   10.3) Padding, Margin
   <img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497389941/Screen_Shot_2017-06-13_at_2.38.41_PM_jclvkn.png">
+  
+  %%%
+  11) What's the best practice for putting multiple projects in a git repository?
+
+A single repository can contain multiple independent branches, called orphan branches. Orphan branches are completely separate from each other; they do not share histories.
+
+git checkout --orphan BRANCHNAME
+This creates a new branch, unrelated to your current branch. Each project should be in its own orphaned branch.
+
+Now for whatever reason, git needs a bit of cleanup after an orphan checkout.
+
+rm .git/index
+rm -r *
+Make sure everything is committed before deleting
+
+Once the orphan branch is clean, you can use it normally.
+
+Solution 2
+
+Avoid all the hassle of orphan branches. Create two independent repositories, and push them to the same remote. Just use different branch names for each repo.
+
+# repo 1
+git push origin master:master-1
+
+# repo 2
+git push origin master:master-2
