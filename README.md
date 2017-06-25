@@ -58,9 +58,11 @@ git checkout --orphan BRANCHNAME
 This creates a new branch, unrelated to your current branch. Each project should be in its own orphaned branch.
 
 Now for whatever reason, git needs a bit of cleanup after an orphan checkout.
-
+~~~
 rm .git/index
+
 rm -r *
+~~~
 Make sure everything is committed before deleting
 
 Once the orphan branch is clean, you can use it normally.
