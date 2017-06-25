@@ -80,7 +80,9 @@ git push origin master:master-2
 12) <b>Autocomplete does not work in HTML and CSS files</b>
 
 -> html tab (autocompletion not working) 
-i.e <!DOCTYPE html>
+i.e 
+~~~
+<!DOCTYPE html>
 <html>
 <head>
 	<title></title>
@@ -89,7 +91,9 @@ i.e <!DOCTYPE html>
 
 </body>
 </html>
-~~~
+
 Solution:   Preferences > Settings -- User file:
 
 "auto_complete_selector": "source, text",
+
+~~~
