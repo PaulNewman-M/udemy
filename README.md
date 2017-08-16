@@ -98,8 +98,15 @@ Solution:   Preferences > Settings -- User file:
 
 ~~~
 
-13) colors ,transparent ,hexcode,RGB red green blue
+13) I)colors ,transparent ,hexcode,RGB red green blue
 
 <img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1502871323/Screen_Shot_2017-08-16_at_1_11_48_AM_k9mfmt.webp">
 <img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1502871319/Screen_Shot_2017-08-16_at_1_11_29_AM_ifptdj.webp">
 <img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1502871314/Screen_Shot_2017-08-16_at_1_11_01_AM_fjqtfc.webp">
+
+II) border
+
+~~~
+border: 8px solid red;
+
+~~~
