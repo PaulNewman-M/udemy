@@ -129,3 +129,36 @@ font-size:20px;
 
 ~~~
 
+
+~~~
+
+// font weight 
+
+p{
+font-weight:bold;
+}
+
+//line height 
+
+p{
+line-height:2em;
+}
+
+//text -decoration
+
+h1{
+text-decoration:underline;
+}
+~~~
+
+~~~
+
+p{
+margin: top right bottom left; // clock wise 
+marign : 20px 2px 3px 4px ;
+same as -
+margin : 20px auto 20px auto;  ===   margin : 20px auto;
+
+~~~
+
+
