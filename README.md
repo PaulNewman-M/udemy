@@ -110,3 +110,22 @@ II) border
 border: 8px solid red;
 
 ~~~
+
+13.1) 
+
+~~~
+h1:hover{
+color:blue;
+}
+
+h1:visited{
+color:grey
+}
+
+#special:first-letter{
+color:green;
+font-size:20px;
+}
+
+~~~
+
