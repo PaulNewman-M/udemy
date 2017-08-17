@@ -161,4 +161,11 @@ margin : 20px auto 20px auto;  ===   margin : 20px auto;
 
 ~~~
 
+13.2) How to change the Photos in web site to color black and white whithout doing manually?
+
+.css 
+
+#  img{
+filter: grayscale(100%);
+}
 
