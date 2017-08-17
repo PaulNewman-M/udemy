@@ -165,7 +165,8 @@ margin : 20px auto 20px auto;  ===   margin : 20px auto;
 
 # .css 
 
+~~~
  img{
 filter: grayscale(100%);
 }
-
+~~~
